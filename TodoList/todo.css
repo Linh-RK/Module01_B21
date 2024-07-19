@@ -1,0 +1,11 @@
+.true {
+  color: green;
+  background-color: lightgray;
+}
+.false {
+  color: brown;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+}
